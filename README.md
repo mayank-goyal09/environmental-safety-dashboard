@@ -1,4 +1,4 @@
-# Environmental & Safety Dashboard
+# Environmental & Safety Dashboard | [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzU0YTQyNWYtNTZiOS00MGM5LThjZDgtNzVlMTRlOGY1NzkyIiwidCI6IjU0ZjdiMDNjLTQ2MDEtNGNiYS05YmZjLTA1ODY3MDQ1MzA3ZSJ9)
 
 > ⚠️ **Important Notice About Real Time Updates**
 > 
